@@ -10,5 +10,4 @@ contributions from several other people.
 
 ## Contact
 
-If you want to contact me, ping me on Matrix (@pta02:matrix.org), or send me an
-email: [pedro@pta2002.com](mailto:pedro@pta2002.com).
+If you want to contact me, the best way is to send me an email: pedro@pta2002.com
